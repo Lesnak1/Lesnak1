@@ -36,5 +36,5 @@ A reference implementation for dynamic, on-chain evolving NFTs on Monad. This re
 ---
 
 ### 📫 Connect
-- **Portfolio:** [Check my repos below]
+- **Portfolio:** [[Check my repos below](https://github.com/Lesnak1?tab=repositories)]
 - **Specialization:** High-Frequency Trading (HFT) Bots, AI-Powered Infrastructure, Move/Solidity Smart Contracts.
