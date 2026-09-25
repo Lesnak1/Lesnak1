@@ -1,40 +1,44 @@
-# Lesnak1 | Core Ecosystem Developer & AI Architect
+# ⚡ Lesnak1 | Web3 & AI Protocol Architect
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Expert-Web3%20%26%20AI-blue?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Winner-Movement%20Hackathon%202024-yellow?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-Move%20|%20Rust%20|%20Python%20|%20TS-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web3%20Architect-Movement%20%7C%20Solana%20%7C%20Monad-0052FF?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏆%20Winner-Movement%20Hackathon%202024-F4D03F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Move%20%7C%20Solidity%20%7C%20Rust%20%7C%20TS%20%7C%20Python-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-Zama%20FHE%20%7C%20Escrow%20%7C%20Auditing-9B59B6?style=for-the-badge" />
 </div>
 
 ---
 
-### 🚀 About Me
-I am a senior developer focusing on building the **connective tissue** between Artificial Intelligence and Blockchain Ecosystems. My work primarily revolves around creating developer infrastructure for emerging L1s like **Movement Labs** and **Monad**.
+### 🌐 Overview
+Specialized in high-performance **autonomous Web3 agents, intelligent escrow contracts, and cross-chain execution engines**. Track record spanning major ecosystems: **Movement, Solana, Monad, Base, GenLayer, and Polymarket**.
 
-- 🏆 **Movement Hackathon 2024 Winner**: Awarded for building high-impact AI documentation infrastructure.
-- 🛠 **Infrastructure Architect**: Maintaining tools that hundreds of developers use to onboard onto the Movement SDK.
-- 🤖 **AI Integration**: Expert in RAG (Retrieval-Augmented Generation) for technical documentation and on-chain AI agent logic.
-
----
-
-### 🌟 Featured Infrastructure Projects
-
-#### [Movement AI Assistant](https://github.com/Lesnak1/movement-ai-assistant)
-> **Role:** Primary Maintainer | **Ecosystem:** Movement Labs
-The "quiet dependency" for Movement developers. A sophisticated AI agent trained on the entire Movement SDK, enabling rapid onboarding and reducing support overhead for the core team.
-
-#### [Monara NFT](https://github.com/Lesnak1/monara-nft)
-> **Role:** Technical Lead | **Ecosystem:** Monad
-A reference implementation for dynamic, on-chain evolving NFTs on Monad. This repo serves as a blueprint for developers building complex state-machine NFTs in the Monad ecosystem.
+- 🏆 **Movement Hackathon 2024 Winner**: Built next-generation AI tooling and developer infrastructure for Movement Labs.
+- ⚡ **Autonomous Execution & DeFi**: Developing low-latency trading terminals, escrow smart contracts, and decentralized agent labor networks.
+- 🔐 **Cryptography & Privacy**: Experimenting with Fully Homomorphic Encryption (FHE via Zama) and zk-proof integrations.
 
 ---
 
-### 📊 Professional Metrics
-![Lesnak1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesnak1&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesnak1&layout=compact&theme=dracula)
+### 🚀 Flagship Web3 Ecosystem Repositories
+
+| Project | Ecosystem | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **[NexaPact Protocol](https://github.com/Lesnak1/nexapact)** | **GenLayer / EVM** | Decentralized agent labor and multi-milestone intelligent escrow contracts. | Python (GenVM), TypeScript, Web3 |
+| **[Kairos](https://github.com/Lesnak1/kairos)** | **Solana** | Autonomous AI execution OS with guaranteed block inclusion and sub-30ms pre-confirmations. | Solana Program, TypeScript, Anchor |
+| **[Movement AI Assistant](https://github.com/Lesnak1/movement-ai-assistant)** | **Movement (Move)** | Hackathon-winning AI engine trained on Movement SDK & Move language semantics. | Move, Python, RAG |
+| **[Pollapse](https://github.com/Lesnak1/Pollapse)** | **Polymarket** | Cross-market intelligence and smart trading terminal for prediction markets. | JavaScript, Ethereum, Web3 |
+| **[Monara NFT](https://github.com/Lesnak1/monara-nft)** | **Monad** | Dynamic on-chain state machine and NFT evolution dApp on Monad testnet. | Solidity, TypeScript, React |
+| **[Zama FHE Playground](https://github.com/Lesnak1/zama-fhe-playground)** | **Zama (FHE)** | Interactive learning and testing framework for Fully Homomorphic Encryption. | FHE, TypeScript, Web3 |
+| **[MoveAIID](https://github.com/Lesnak1/MoveAIID)** | **Movement** | AI-enhanced decentralized identity & on-chain reputation protocol. | Move, TypeScript, AI |
 
 ---
 
-### 📫 Connect
-- **Portfolio:** [[Check my repos below](https://github.com/Lesnak1?tab=repositories)]
-- **Specialization:** High-Frequency Trading (HFT) Bots, AI-Powered Infrastructure, Move/Solidity Smart Contracts.
+### 🛠 Core Technical Stack
+- **Smart Contracts & L1s:** Move (Movement / Aptos), Solidity (EVM / Monad / Base), Rust / Anchor (Solana), GenVM (GenLayer).
+- **Backend & SDKs:** Node.js / TypeScript, Python (Async, FastAPI, Web3.py), Ethers.js, Viem, Solana Web3.js.
+- **Protocols & Infra:** Zama FHE, Polymarket CLOB, Farcaster Frame / Mini Apps, Meteora DLMM, Envio Indexer.
+
+---
+
+### 📊 Ecosystem Contributions & Verification
+- **Verified Commits:** 600+ open-source commits across Web3 protocols and developer tooling.
+- **Ecosystem Repos:** Contributions & pull requests in `Base`, `Circle (Arc)`, `Polygon Miden`, `XMTP`, `Fhenix`, and `Primus Labs`.
