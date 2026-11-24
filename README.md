@@ -37,6 +37,7 @@ I operate at the convergence of **Core Web3 Engineering** (Zero-Knowledge Rollup
 
 | Project | Focus Area | Description | Stack |
 | :--- | :--- | :--- | :--- |
+| **[ProofOfCite](https://proofofcite.com/) ([Open Benchmark](https://github.com/Lesnak1/crypto-ai-search-benchmark))** | **AI Search (GEO/AEO) & Crawler Eng.** | Live AI crawler diagnostics (`OAI-SearchBot`, `PerplexityBot`, `Claude-SearchBot`), Cloudflare WAF 403 checker, `/llms.txt` RPC DNS validator, and 11-protocol crypto AI search visibility benchmark. | Python, Chromium, Vercel, Technical SEO/GEO |
 | **[momentum-liquidity-platform](https://github.com/Lesnak1/momentum-liquidity-platform)** | **Quant & Trading** | Institutional liquidity and signal platform built for prop-firm challenges with automated Forex & Crypto analysis. | Python, FastAPI, Quantitative Models |
 | **[Pollapse](https://github.com/Lesnak1/Pollapse)** | **Prediction Markets** | Cross-market intelligence and smart trading terminal for Polymarket with event correlation tracking. | JavaScript, TypeScript, Web3, APIs |
 | **[movement-ai-assistant](https://github.com/Lesnak1/movement-ai-assistant)** | **AI & Infrastructure** | Hackathon-winning AI engine trained on Movement SDK and Move smart contract semantics. | Move, Python, RAG |
@@ -61,5 +62,6 @@ Testing & Tooling   : Vitest, PyTest, GitHub Actions CI/CD, Mutation Testing, Fo
 
 ### 📬 Connect & Collaborate
 - **GitHub:** [@Lesnak1](https://github.com/Lesnak1)
+- **Website / Studio:** [ProofOfCite](https://proofofcite.com/) · [Free AI Crawler Checker](https://proofofcite.com/tools/ai-crawler-checker) · [@ProofOfCite](https://x.com/ProofOfCite)
 - **Discord:** `kresna6773`
 - **Focus:** Open for Protocol Engineering, Ecosystem Growth & Developer Relations, and High-Impact Open-Source Collaborations.
